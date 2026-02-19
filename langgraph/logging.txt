@@ -1,0 +1,18 @@
+Your Conversation Log:
+You: hi im bob
+AI: Hi Bob! It's nice to meet you. How can I help you today?
+
+You: how are you doing today
+AI: I'm doing well, thank you for asking! As an AI, I don't experience feelings in the same way humans do, but I'm operating smoothly and ready to assist you with any questions or tasks you have.
+
+You: tell me a joke
+AI: Sure, Bob! Here's one for you:
+
+You: whats my name
+AI: You haven't told me your name! I can only go by the information you provide in our conversation.
+
+You: my name us bob
+You: what is my name
+AI: Your name is Bob.
+
+End of Conversation
